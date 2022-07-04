@@ -48,10 +48,10 @@ git commit -am "Inital commit"	Adds and commits
 			git reset
 
 git reset --hard <commit id>
-git commit -am "Inital commit"	Adds and commits
+git reset --hard origin/main
 
 
-
+test
 
 
 

@@ -1,1 +1,3 @@
 This is Git Demo
+
+By executing git diff it will show the difference made to file.

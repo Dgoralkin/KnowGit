@@ -55,12 +55,4 @@ git reset --hard origin/main
 			git branch
 
 git branch <BranchName>		=>	Creates a new branch
-git checour <BranchName> 	=>	Switches to new branch
-
-
-
-
-
-
-
-
+git checout <BranchName> 	=>	Switches to new branch

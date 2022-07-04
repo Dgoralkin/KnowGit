@@ -8,7 +8,6 @@
 git diff	:	Shows difference made in file.
 git status	:	Shows the git repo status.
 git log		:	Shows the commit history
-git reset	:	
 ------------------------------------------------------------
 
 
@@ -46,9 +45,9 @@ git commit -m "Inital commit"
 git commit -am "Inital commit"	Adds and commits
 
 ============================================================
-			git X
+			git reset
 
-git commit -m "Inital commit"
+git reset --hard <commit id>
 git commit -am "Inital commit"	Adds and commits
 
 

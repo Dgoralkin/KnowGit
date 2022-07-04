@@ -8,6 +8,7 @@
 git diff	:	Shows difference made in file.
 git status	:	Shows the git repo status.
 git log		:	Shows the commit history
+git branch	:	Shows all the branches
 ------------------------------------------------------------
 
 
@@ -50,8 +51,11 @@ git commit -am "Inital commit"	Adds and commits
 git reset --hard <commit id>
 git reset --hard origin/main
 
+============================================================
+			git branch
 
-test
+git branch <BranchName>		=>	Creates a new branch
+git checout <BranchName> 	=>	Switches to new branch
 
 
 

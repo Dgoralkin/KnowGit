@@ -1,0 +1,50 @@
+-A	:	All
+-m	:	Message
+-am	:	Adds and commits
+-u	:	Sets main location in repo
+-f	:	Force
+
+------------------------------------------------------------
+git diff	:	Shows difference made in file.
+------------------------------------------------------------
+
+
+
+
+============================================================
+			git clone <url>
+
+git clone https://github.com/Dgoralkin/heroku.git
+
+
+============================================================
+			git push <url>
+
+git init
+git add -A
+git commit -m 'Added my project'
+git remote add origin git@github.com:sammy/my-new-project.git
+git push -u origin main
+
+============================================================
+			git add
+
+git add <FileName.txt>
+
+============================================================
+			git commit
+
+git commit -m "Inital commit"
+git commit -am "Inital commit"	Adds and commits
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,4 +1,4 @@
--A	:	All
+-a	:	All
 -m	:	Message
 -am	:	Adds and commits
 -u	:	Sets main location in repo
@@ -6,6 +6,7 @@
 
 ------------------------------------------------------------
 git diff	:	Shows difference made in file.
+git status	:	Shows the git repo status.
 ------------------------------------------------------------
 
 
@@ -16,7 +17,6 @@ git diff	:	Shows difference made in file.
 
 git clone https://github.com/Dgoralkin/heroku.git
 
-
 ============================================================
 			git push <url>
 
@@ -25,6 +25,12 @@ git add -A
 git commit -m 'Added my project'
 git remote add origin git@github.com:sammy/my-new-project.git
 git push -u origin main
+git push origin main/master
+
+============================================================
+			git pull
+
+git pull
 
 ============================================================
 			git add
@@ -37,7 +43,11 @@ git add <FileName.txt>
 git commit -m "Inital commit"
 git commit -am "Inital commit"	Adds and commits
 
+============================================================
+			git X
 
+git commit -m "Inital commit"
+git commit -am "Inital commit"	Adds and commits
 
 
 

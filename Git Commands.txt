@@ -36,6 +36,7 @@ git pull
 			git add
 
 git add <FileName.txt>
+git add .
 
 ============================================================
 			git commit

@@ -12,8 +12,6 @@ git branch	:	Shows all the branches
 ------------------------------------------------------------
 
 
-
-
 ============================================================
 			git clone <url>
 
@@ -56,11 +54,3 @@ git reset --hard origin/main
 
 git branch <BranchName>		=>	Creates a new branch
 git checout <BranchName> 	=>	Switches to new branch
-
-
-
-
-
-
-
-
